@@ -34,3 +34,6 @@ This Power BI dashboard analyzes gold market trends and performance using intera
 ## Author
 
 Avadhesh Sahani
+## Dashboard Preview
+
+![Gold Dashboard](Dashboard_Screenshot.png)
